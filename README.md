@@ -57,3 +57,8 @@ n8n-workflow ([`workflows/assistant-bot.json`](workflows/assistant-bot.json)), �
 - n8n (AI Agent, OpenAI Chat Model)
 - Google Calendar API (n8n-инструменты Google Calendar)
 - LLM с tool-calling (модель настраивается)
+
+## License / Лицензия
+
+Released under the MIT License. See [LICENSE](LICENSE).
+Проект распространяется по лицензии MIT. См. [LICENSE](LICENSE).
